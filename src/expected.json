@@ -1,0 +1,1490 @@
+[
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "16",
+    "TotalAmount": 3052,
+    "VendorCnpj": "46.300.370/0001-45"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "18",
+    "TotalAmount": 2050,
+    "VendorCnpj": "44.525.188/0001-67"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "5",
+    "TotalAmount": 2520,
+    "VendorCnpj": "57.796.615/0001-93"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "16",
+    "TotalAmount": 2831.56,
+    "VendorCnpj": "55.006.846/0001-20"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "47",
+    "TotalAmount": 3510,
+    "VendorCnpj": "31.179.192/0001-79"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "8",
+    "TotalAmount": 2520,
+    "VendorCnpj": "57.292.965/0001-12"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "14",
+    "TotalAmount": 1745.09,
+    "VendorCnpj": "55.546.743/0001-53"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "15",
+    "TotalAmount": 3188.8,
+    "VendorCnpj": "55.853.047/0001-90"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "5",
+    "TotalAmount": 1390,
+    "VendorCnpj": "57.916.188/0001-30"
+  },
+  {
+    "ActivityCode": "4930-2/01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "0000013",
+    "TotalAmount": 2110,
+    "VendorCnpj": "14.878.159/0001-18"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "20",
+    "TotalAmount": 2250,
+    "VendorCnpj": "54.460.202/0001-45"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "18",
+    "TotalAmount": 2680,
+    "VendorCnpj": "49.806.287/0001-30"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "16/12/2024",
+    "InvoiceNumber": "7",
+    "TotalAmount": 2100,
+    "VendorCnpj": "35.407.490/0001-20"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 2360,
+    "VendorCnpj": "44.181.646/0001-98"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "13",
+    "TotalAmount": 2480,
+    "VendorCnpj": "55.421.175/0001-64"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "3",
+    "TotalAmount": 1000,
+    "VendorCnpj": "58.358.034/0001-32"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "32",
+    "TotalAmount": 2429.86,
+    "VendorCnpj": "44.688.918/0001-40"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "11",
+    "TotalAmount": 2624,
+    "VendorCnpj": "49.189.758/0001-09"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "5",
+    "TotalAmount": 1976.1,
+    "VendorCnpj": "50.829.466/0001-72"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 2410,
+    "VendorCnpj": "52.260.459/0001-28"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "8",
+    "TotalAmount": 1718,
+    "VendorCnpj": "57.355.686/0001-50"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "12",
+    "TotalAmount": 2180,
+    "VendorCnpj": "54.964.132/0001-62"
+  },
+  {
+    "ActivityCode": "16.02 / 493020101",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "29324",
+    "TotalAmount": 4890,
+    "VendorCnpj": "11.163.153/0001-76"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "15",
+    "TotalAmount": 2560,
+    "VendorCnpj": "48.541.799/0001-50"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "2",
+    "TotalAmount": 2612.2,
+    "VendorCnpj": "58.283.798/0001-06"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "19",
+    "TotalAmount": 1083.05,
+    "VendorCnpj": "54.278.226/0001-88"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "14",
+    "TotalAmount": 2200,
+    "VendorCnpj": "55.858.670/0001-35"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "7",
+    "TotalAmount": 1787.09,
+    "VendorCnpj": "58.065.222/0001-72"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "13",
+    "TotalAmount": 2280,
+    "VendorCnpj": "44.871.018/0001-34"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "5",
+    "TotalAmount": 3240,
+    "VendorCnpj": "42.893.183/0001-61"
+  },
+  {
+    "ActivityCode": "16.02",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "15",
+    "TotalAmount": 1765.18,
+    "VendorCnpj": "23.187.145/0001-49"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "16",
+    "TotalAmount": 3288.8,
+    "VendorCnpj": "55.853.047/0001-90"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 1666,
+    "VendorCnpj": "58.046.487/0001-23"
+  },
+  {
+    "ActivityCode": "16.02 / 493020101",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "29308",
+    "TotalAmount": 2130,
+    "VendorCnpj": "11.163.153/0001-76"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "23",
+    "TotalAmount": 1277.03,
+    "VendorCnpj": "51.713.407/0001-05"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "16",
+    "TotalAmount": 1080,
+    "VendorCnpj": "37.870.247/0001-79"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 2410,
+    "VendorCnpj": "52.260.459/0001-28"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "3",
+    "TotalAmount": 1930.38,
+    "VendorCnpj": "57.856.129/0001-13"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "12",
+    "TotalAmount": 1955,
+    "VendorCnpj": "54.392.350/0001-70"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "5",
+    "TotalAmount": 2160,
+    "VendorCnpj": "48.721.164/0001-34"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "31",
+    "TotalAmount": 2320,
+    "VendorCnpj": "36.221.391/0001-11"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 1980,
+    "VendorCnpj": "50.829.466/0001-72"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "22",
+    "TotalAmount": 1097.03,
+    "VendorCnpj": "51.713.407/0001-05"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "18",
+    "TotalAmount": 3910.53,
+    "VendorCnpj": "54.651.568/0001-00"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "24/01/2025",
+    "InvoiceNumber": "33",
+    "TotalAmount": 2469.86,
+    "VendorCnpj": "44.688.918/0001-40"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "3",
+    "TotalAmount": 2320,
+    "VendorCnpj": "58.257.394/0001-48"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "24",
+    "TotalAmount": 2800,
+    "VendorCnpj": "45.909.524/0001-38"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "17",
+    "TotalAmount": 3770.53,
+    "VendorCnpj": "54.651.568/0001-00"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "24/01/2025",
+    "InvoiceNumber": "60",
+    "TotalAmount": 2126.12,
+    "VendorCnpj": "12.567.952/0001-70"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "43",
+    "TotalAmount": 2495.84,
+    "VendorCnpj": "49.224.895/0001-37"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "5",
+    "TotalAmount": 1440,
+    "VendorCnpj": "56.293.429/0001-79"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "10",
+    "TotalAmount": 2086.86,
+    "VendorCnpj": "56.661.253/0001-60"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "5",
+    "TotalAmount": 2700,
+    "VendorCnpj": "35.407.490/0001-20"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "31",
+    "TotalAmount": 930,
+    "VendorCnpj": "52.252.713/0001-46"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "2",
+    "TotalAmount": 2224.6,
+    "VendorCnpj": "48.464.880/0001-83"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "19.179.157/0001-54",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "10",
+    "TotalAmount": 1435.22,
+    "VendorCnpj": "53.465.376/0001-38"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "19.179.157/0001-54",
+    "Date": "17/12/2024",
+    "InvoiceNumber": "25",
+    "TotalAmount": 1705,
+    "VendorCnpj": "46.597.874/0001-79"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "16/01/2024",
+    "InvoiceNumber": "18",
+    "TotalAmount": 2028.69,
+    "VendorCnpj": "46.445.617/0001-11"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "14",
+    "TotalAmount": 1656.85,
+    "VendorCnpj": "55.235.803/0001-17"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "23",
+    "TotalAmount": 505.4,
+    "VendorCnpj": "46.794.310/0001-26"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "2",
+    "TotalAmount": 2365.81,
+    "VendorCnpj": "54.772.519/0001-17"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "19.179.157/0001-54",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 2800,
+    "VendorCnpj": "45.006.181/0001-00"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "14/01/2025",
+    "InvoiceNumber": "4",
+    "TotalAmount": 2015,
+    "VendorCnpj": "48.040.894/0001-70"
+  },
+  {
+    "ActivityCode": "15.06.03",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "10/01/2025",
+    "InvoiceNumber": "2",
+    "TotalAmount": 497.95,
+    "VendorCnpj": "58.605.897/0001-67"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "31/12/2024",
+    "InvoiceNumber": "16",
+    "TotalAmount": 3052,
+    "VendorCnpj": "46.300.370/0001-45"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "0",
+    "Date": "24/01/2025",
+    "InvoiceNumber": "2",
+    "TotalAmount": 5431.6,
+    "VendorCnpj": "52.772.950/0001-38"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "18/01/2025",
+    "InvoiceNumber": "3",
+    "TotalAmount": 100,
+    "VendorCnpj": "56.253.083/0001-85"
+  },
+  {
+    "ActivityCode": "11.04.02",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "16/12/2024",
+    "InvoiceNumber": "14",
+    "TotalAmount": 1759.28,
+    "VendorCnpj": "54.418.857/0001-55"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "01/01/2025",
+    "InvoiceNumber": "18",
+    "TotalAmount": 2050,
+    "VendorCnpj": "44.525.188/0001-67"
+  },
+  {
+    "ActivityCode": "15.06.03",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "31/12/2024",
+    "InvoiceNumber": "7",
+    "TotalAmount": 1959.09,
+    "VendorCnpj": "57.167.720/0001-63"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "15/01/2025",
+    "InvoiceNumber": "37",
+    "TotalAmount": 2313.01,
+    "VendorCnpj": "26.369.541/0001-85"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "13",
+    "TotalAmount": 2755.54,
+    "VendorCnpj": "56.915.255/0001-39"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "19/01/2025",
+    "InvoiceNumber": "2",
+    "TotalAmount": 1748.5,
+    "VendorCnpj": "29.372.573/0001-28"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "41",
+    "TotalAmount": 2992.8,
+    "VendorCnpj": "56.585.537/0001-64"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "16/12/2024",
+    "InvoiceNumber": "16",
+    "TotalAmount": 2831.56,
+    "VendorCnpj": "55.006.846/0001-20"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "0",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "11",
+    "TotalAmount": 1745,
+    "VendorCnpj": "54.813.633/0001-48"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "8",
+    "TotalAmount": 3000,
+    "VendorCnpj": "52.174.700/0001-04"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "33",
+    "TotalAmount": 4960,
+    "VendorCnpj": "42.683.373/0001-54"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "19/01/2025",
+    "InvoiceNumber": "1",
+    "TotalAmount": 1270.54,
+    "VendorCnpj": "29.372.573/0001-28"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "25",
+    "TotalAmount": 2720,
+    "VendorCnpj": "55.430.473/0001-10"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "19.179.157/0001-544",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "1",
+    "TotalAmount": 5451.5,
+    "VendorCnpj": "31.438.594/0001-40"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "25/12/2024",
+    "InvoiceNumber": "13",
+    "TotalAmount": 2526.51,
+    "VendorCnpj": "39.638.413/0001-31"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "32",
+    "TotalAmount": 2429.86,
+    "VendorCnpj": "44.688.918/0001-40"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "42.446.277/0001-92",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "20",
+    "TotalAmount": 1750,
+    "VendorCnpj": "51.296.995/0001-10"
+  },
+  {
+    "ActivityCode": "16.01.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "10/01/2025",
+    "InvoiceNumber": "84",
+    "TotalAmount": 1102.2,
+    "VendorCnpj": "28.002.190/0001-03"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "10/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 348,
+    "VendorCnpj": "47.229.030/0001-38"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "4",
+    "TotalAmount": 280,
+    "VendorCnpj": "58.028.086/0001-40"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "29/12/2024",
+    "InvoiceNumber": "5",
+    "TotalAmount": 2330.4,
+    "VendorCnpj": "40.669.578/0001-50"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "59",
+    "TotalAmount": 2046.12,
+    "VendorCnpj": "12.567.952/0001-70"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "36.339.969/0001-39",
+    "Date": "17/01/2025",
+    "InvoiceNumber": "16",
+    "TotalAmount": 2082.6,
+    "VendorCnpj": "55.676.945/0001-10"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "17/12/2024",
+    "InvoiceNumber": "5",
+    "TotalAmount": 1390,
+    "VendorCnpj": "57.916.188/0001-30"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "4",
+    "TotalAmount": 1388.12,
+    "VendorCnpj": "58.302.731/0001-71"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "19.179.157/0001-54",
+    "Date": "16/01/2025",
+    "InvoiceNumber": "8",
+    "TotalAmount": 2320.12,
+    "VendorCnpj": "55.867.389/0001-69"
+  },
+  {
+    "ActivityCode": "01.01.01",
+    "BuyerCnpj": "38.927.293/0001-20",
+    "Date": "01/12/2024",
+    "InvoiceNumber": "25",
+    "TotalAmount": 10,
+    "VendorCnpj": "24.835.718/0001-66"
+  },
+  {
+    "ActivityCode": "01.07.01",
+    "BuyerCnpj": "38.927.293/0001-20",
+    "Date": "16/12/2024",
+    "InvoiceNumber": "7",
+    "TotalAmount": 1,
+    "VendorCnpj": "56.121.557/0001-35"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "24",
+    "TotalAmount": 908,
+    "VendorCnpj": "54.798.403/0001-57"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "13",
+    "TotalAmount": 3987.6,
+    "VendorCnpj": "57.044.718/0001-05"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "0",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "2",
+    "TotalAmount": 223.2,
+    "VendorCnpj": "57.851.082/0001-03"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "42.541.016/0001-51",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "4",
+    "TotalAmount": 1767.3,
+    "VendorCnpj": "51.403.512/0001-30"
+  },
+  {
+    "ActivityCode": "17.02.02",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "27/12/2024",
+    "InvoiceNumber": "52",
+    "TotalAmount": 2800,
+    "VendorCnpj": "41.377.191/0001-92"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "19.179.157/0001-54",
+    "Date": "27/12/2024",
+    "InvoiceNumber": "1",
+    "TotalAmount": 934.19,
+    "VendorCnpj": "51.171.459/0001-99"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "3",
+    "TotalAmount": 1420.84,
+    "VendorCnpj": "58.058.716/0001-20"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "01/11/2024",
+    "InvoiceNumber": "32",
+    "TotalAmount": 3610,
+    "VendorCnpj": "49.719.002/0001-24"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "31",
+    "TotalAmount": 2140,
+    "VendorCnpj": "47.652.975/0001-68"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "31/12/2024",
+    "InvoiceNumber": "13",
+    "TotalAmount": 2480,
+    "VendorCnpj": "55.421.175/0001-64"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "25",
+    "TotalAmount": 1277.52,
+    "VendorCnpj": "54.054.569/0001-69"
+  },
+  {
+    "ActivityCode": "02340",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "00000022",
+    "TotalAmount": 2104.53,
+    "VendorCnpj": "11.482.310/0001-06"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "0",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "8",
+    "TotalAmount": 3792.6,
+    "VendorCnpj": "47.006.255/0001-25"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "0",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 2450,
+    "VendorCnpj": "34.220.851/0001-61"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "65",
+    "TotalAmount": 2805.93,
+    "VendorCnpj": "46.712.845/0001-00"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "15",
+    "TotalAmount": 5719.2,
+    "VendorCnpj": "56.071.416/0001-55"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "16",
+    "TotalAmount": 2160,
+    "VendorCnpj": "52.308.352/0001-02"
+  },
+  {
+    "ActivityCode": "01.07.01",
+    "BuyerCnpj": "38.927.293/0001-20",
+    "Date": "16/12/2024",
+    "InvoiceNumber": "1.00",
+    "TotalAmount": 7,
+    "VendorCnpj": "56.121.557/0001-35"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "14",
+    "TotalAmount": 2360,
+    "VendorCnpj": "56.433.011/0001-10"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "19.179.157/0001-54",
+    "Date": "19/12/2024",
+    "InvoiceNumber": "3",
+    "TotalAmount": 1724.88,
+    "VendorCnpj": "31.784.524/0001-44"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 2410,
+    "VendorCnpj": "52.260.459/0001-28"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "36.339.969/0001-39",
+    "Date": "01/01/2025",
+    "InvoiceNumber": "22",
+    "TotalAmount": 5310.6,
+    "VendorCnpj": "52.577.831/0001-24"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "3",
+    "TotalAmount": 3000,
+    "VendorCnpj": "57.789.442/0001-86"
+  },
+  {
+    "ActivityCode": "15.06.03",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "3",
+    "TotalAmount": 1777.14,
+    "VendorCnpj": "57.759.621/0001-70"
+  },
+  {
+    "ActivityCode": "16.01.01",
+    "BuyerCnpj": "19.179.157/0001-54",
+    "Date": "16/01/2025",
+    "InvoiceNumber": "4",
+    "TotalAmount": 1268.12,
+    "VendorCnpj": "45.837.217/0001-99"
+  },
+  {
+    "ActivityCode": "01.07.01",
+    "BuyerCnpj": "38.927.293/0001-20",
+    "Date": "30/12/2024",
+    "InvoiceNumber": "8",
+    "TotalAmount": 2500,
+    "VendorCnpj": "56.121.557/0001-35"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "19/01/2025",
+    "InvoiceNumber": "1",
+    "TotalAmount": 1270.54,
+    "VendorCnpj": "29.372.575/0001-28"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "14",
+    "TotalAmount": 1745.09,
+    "VendorCnpj": "55.546.743/0001.53"
+  },
+  {
+    "ActivityCode": "4930-2/01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "0000013",
+    "TotalAmount": 2110,
+    "VendorCnpj": "14.878.159/0001-18"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 2360,
+    "VendorCnpj": "44.181.646/0001-98"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "36.339.969/0001-39",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "21",
+    "TotalAmount": 1440,
+    "VendorCnpj": "52.557.727/0001-78"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "17/01/2025",
+    "InvoiceNumber": "11",
+    "TotalAmount": 3387.65,
+    "VendorCnpj": "56.769.165/0001-87"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "36.339.969/0001-39",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "35",
+    "TotalAmount": 4080,
+    "VendorCnpj": "52.000.969/0001-66"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "30/12/2024",
+    "InvoiceNumber": "15",
+    "TotalAmount": 2560,
+    "VendorCnpj": "48.541.799/0001-50"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "31/12/2024",
+    "InvoiceNumber": "49",
+    "TotalAmount": 2340,
+    "VendorCnpj": "26.032.134/0001-88"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "32",
+    "TotalAmount": 1250,
+    "VendorCnpj": "54.549.649/0001-95"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "06/01/2025",
+    "InvoiceNumber": "62",
+    "TotalAmount": 2429.22,
+    "VendorCnpj": "46.712.845/0001-00"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "13/01/2025",
+    "InvoiceNumber": "1",
+    "TotalAmount": 700,
+    "VendorCnpj": "58.801.187/0001-02"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "14",
+    "TotalAmount": 1124.4,
+    "VendorCnpj": "57.014.710/0001-98"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "0",
+    "Date": "31/12/2024",
+    "InvoiceNumber": "7",
+    "TotalAmount": 3894.3,
+    "VendorCnpj": "40.304.270/0001-00"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "36.339.969/0001-39",
+    "Date": "05/01/2025",
+    "InvoiceNumber": "20",
+    "TotalAmount": 1140,
+    "VendorCnpj": "52.557.727/0001-78"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "19.179.157/0001-54",
+    "Date": "16/01/2025",
+    "InvoiceNumber": "11",
+    "TotalAmount": 2650,
+    "VendorCnpj": "56.015.368/0001-88"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "3",
+    "TotalAmount": 3018.44,
+    "VendorCnpj": "58.025.467/0001-76"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "09/10/2024",
+    "InvoiceNumber": "24",
+    "TotalAmount": 1806,
+    "VendorCnpj": "50.537.831/0001-75"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "03/12/2024",
+    "InvoiceNumber": "44",
+    "TotalAmount": 2419.39,
+    "VendorCnpj": "51.654.161/0001-30"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "2",
+    "TotalAmount": 3080,
+    "VendorCnpj": "58.729.683/0001-00"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "24/01/2025",
+    "InvoiceNumber": "33",
+    "TotalAmount": 2755.92,
+    "VendorCnpj": "53.149.368/0001-82"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "3",
+    "TotalAmount": 3000,
+    "VendorCnpj": "57.789.442/0001-86"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "16/12/2024",
+    "InvoiceNumber": "13",
+    "TotalAmount": 2280,
+    "VendorCnpj": "44.871.018/0001-34"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "58",
+    "TotalAmount": 2300.3,
+    "VendorCnpj": "12.567.952/0001-70"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 2340,
+    "VendorCnpj": "57.826.967/0001-44"
+  },
+  {
+    "ActivityCode": "17.02.02",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "29/12/2024",
+    "InvoiceNumber": "12",
+    "TotalAmount": 2095.87,
+    "VendorCnpj": "53.745.736/0001-55"
+  },
+  {
+    "ActivityCode": "16.02",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "16/01/2025",
+    "InvoiceNumber": "2025/4",
+    "TotalAmount": 1734,
+    "VendorCnpj": "58.821.934/0001-74"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "11",
+    "TotalAmount": 1641.8,
+    "VendorCnpj": "57.153.738/0001-06"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "41",
+    "TotalAmount": 2992.8,
+    "VendorCnpj": "52.585.537/0001-64"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "3",
+    "TotalAmount": 3150,
+    "VendorCnpj": "53.680.647/0001-78"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "36.339.969/0001-39",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "33",
+    "TotalAmount": 10729.6,
+    "VendorCnpj": "39.553.398/0001-29"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "12",
+    "TotalAmount": 667.6,
+    "VendorCnpj": "26.467.858/0001-54"
+  },
+  {
+    "ActivityCode": "11.04.02",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "1",
+    "TotalAmount": 2621,
+    "VendorCnpj": "55.220.162/0001-27"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "1",
+    "TotalAmount": 670.57,
+    "VendorCnpj": "58.598.973/0001-54"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "21",
+    "TotalAmount": 2600,
+    "VendorCnpj": "55.394.003/0001-49"
+  },
+  {
+    "ActivityCode": "16.02 / 493020101",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "29308",
+    "TotalAmount": 2130,
+    "VendorCnpj": "11.163.153/0001-76"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "31/12/2024",
+    "InvoiceNumber": "15",
+    "TotalAmount": 1800,
+    "VendorCnpj": "39.749.698/0001-88"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "23",
+    "TotalAmount": 1277.03,
+    "VendorCnpj": "51.713.407/0001-05"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "33",
+    "TotalAmount": 1978.91,
+    "VendorCnpj": "52.564.891/0001-02"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "23/01/2025",
+    "InvoiceNumber": "8",
+    "TotalAmount": 1496,
+    "VendorCnpj": "55.681.899/0001-47"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "52",
+    "TotalAmount": 480,
+    "VendorCnpj": "49.242.871/0001-00"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "03/12/2024",
+    "InvoiceNumber": "44",
+    "TotalAmount": 2419.39,
+    "VendorCnpj": "51.654.161/0001-30"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 690,
+    "VendorCnpj": "57.363.176/0001-25"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "1",
+    "TotalAmount": 670.57,
+    "VendorCnpj": "58.598.973/0001-54"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "6",
+    "TotalAmount": 8233.6,
+    "VendorCnpj": "46.875.623/0001-09"
+  },
+  {
+    "ActivityCode": "15.06.03",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "17/01/2025",
+    "InvoiceNumber": "31",
+    "TotalAmount": 61.5,
+    "VendorCnpj": "33.128.033/0001-70"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "0",
+    "Date": "24/01/2025",
+    "InvoiceNumber": "2",
+    "TotalAmount": 1030.86,
+    "VendorCnpj": "58.573.191/0001-60"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "17/01/2025",
+    "InvoiceNumber": "26",
+    "TotalAmount": 1797.62,
+    "VendorCnpj": "42.898.616/0001-71"
+  },
+  {
+    "ActivityCode": "01.01.01",
+    "BuyerCnpj": "38.927.293/0001-20",
+    "Date": "01/11/2024",
+    "InvoiceNumber": "24",
+    "TotalAmount": 4000,
+    "VendorCnpj": "24.835.718/0001-66"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.860.204/0001-35",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "3",
+    "TotalAmount": 856.85,
+    "VendorCnpj": "58.374.926/0001-27"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "10/01/2025",
+    "InvoiceNumber": "1",
+    "TotalAmount": 827.95,
+    "VendorCnpj": "37.355.176/0001-76"
+  },
+  {
+    "ActivityCode": "1602-0/05-88",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "2025/5",
+    "TotalAmount": 1180,
+    "VendorCnpj": "58.851.934/0001-74"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "17",
+    "TotalAmount": 3770.53,
+    "VendorCnpj": "54.651.568/000"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "60",
+    "TotalAmount": 2126.12,
+    "VendorCnpj": "12.567.952/0001-70"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "43",
+    "TotalAmount": 2495.84,
+    "VendorCnpj": "49.224.895/0001-37"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "15/12/2024",
+    "InvoiceNumber": "5",
+    "TotalAmount": 1440,
+    "VendorCnpj": "56.293.429/0001-79"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "0",
+    "Date": "31/12/2024",
+    "InvoiceNumber": "8",
+    "TotalAmount": 257.2,
+    "VendorCnpj": "40.304.270/0001-00"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "20/01/2025",
+    "InvoiceNumber": "1",
+    "TotalAmount": 1965.6,
+    "VendorCnpj": "37.296.477/0001-76"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "14/12/2024",
+    "InvoiceNumber": "21",
+    "TotalAmount": 1500,
+    "VendorCnpj": "17.989.965/0001-51"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "36.339.969/0001-39",
+    "Date": "21/01/2025",
+    "InvoiceNumber": "31",
+    "TotalAmount": 3694.4,
+    "VendorCnpj": "50.757.975/0001-37"
+  },
+  {
+    "ActivityCode": "15.06.03",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "03/01/2025",
+    "InvoiceNumber": "1",
+    "TotalAmount": 1067.35,
+    "VendorCnpj": "58.605.897/0001-67"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "22.163.194/0001-89",
+    "Date": "10/01/2025",
+    "InvoiceNumber": "44",
+    "TotalAmount": 3499.06,
+    "VendorCnpj": "48.313.278/0001-45"
+  },
+  {
+    "ActivityCode": "26.01.01",
+    "BuyerCnpj": "36.761.919/0001-45",
+    "Date": "22/01/2025",
+    "InvoiceNumber": "4",
+    "TotalAmount": 245,
+    "VendorCnpj": "58.131.949/0001-00"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "36.339.969/0001-39",
+    "Date": "17/01/2025",
+    "InvoiceNumber": "41",
+    "TotalAmount": 3242.49,
+    "VendorCnpj": "40.199.276/0001-65"
+  },
+  {
+    "ActivityCode": "16.02.01",
+    "BuyerCnpj": "24.824.109/0001-01",
+    "Date": "01/12/2024",
+    "InvoiceNumber": "5",
+    "TotalAmount": 2700,
+    "VendorCnpj": "35.407.490/0001-20"
+  }
+]
